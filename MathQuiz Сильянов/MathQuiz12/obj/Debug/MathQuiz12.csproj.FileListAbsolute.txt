@@ -1,0 +1,33 @@
+C:\Users\ladyk\source\repos\MathQuiz12\MathQuiz12\bin\Debug\MathQuiz12.exe.config
+C:\Users\ladyk\source\repos\MathQuiz12\MathQuiz12\bin\Debug\MathQuiz12.exe
+C:\Users\ladyk\source\repos\MathQuiz12\MathQuiz12\bin\Debug\MathQuiz12.pdb
+C:\Users\ladyk\source\repos\MathQuiz12\MathQuiz12\obj\Debug\MathQuiz12.csproj.AssemblyReference.cache
+C:\Users\ladyk\source\repos\MathQuiz12\MathQuiz12\obj\Debug\MathQuiz12.csproj.SuggestedBindingRedirects.cache
+C:\Users\ladyk\source\repos\MathQuiz12\MathQuiz12\obj\Debug\MathQuiz12.Form1.resources
+C:\Users\ladyk\source\repos\MathQuiz12\MathQuiz12\obj\Debug\MathQuiz12.Properties.Resources.resources
+C:\Users\ladyk\source\repos\MathQuiz12\MathQuiz12\obj\Debug\MathQuiz12.csproj.GenerateResource.cache
+C:\Users\ladyk\source\repos\MathQuiz12\MathQuiz12\obj\Debug\MathQuiz12.csproj.CoreCompileInputs.cache
+C:\Users\ladyk\source\repos\MathQuiz12\MathQuiz12\obj\Debug\MathQuiz12.exe
+C:\Users\ladyk\source\repos\MathQuiz12\MathQuiz12\obj\Debug\MathQuiz12.pdb
+C:\Users\student\Desktop\MathQuiz-main\MathQuiz12\MathQuiz12\bin\Debug\MathQuiz12.exe.config
+C:\Users\student\Desktop\MathQuiz-main\MathQuiz12\MathQuiz12\bin\Debug\MathQuiz12.exe
+C:\Users\student\Desktop\MathQuiz-main\MathQuiz12\MathQuiz12\bin\Debug\MathQuiz12.pdb
+C:\Users\student\Desktop\MathQuiz-main\MathQuiz12\MathQuiz12\obj\Debug\MathQuiz12.csproj.AssemblyReference.cache
+C:\Users\student\Desktop\MathQuiz-main\MathQuiz12\MathQuiz12\obj\Debug\MathQuiz12.csproj.SuggestedBindingRedirects.cache
+C:\Users\student\Desktop\MathQuiz-main\MathQuiz12\MathQuiz12\obj\Debug\MathQuiz12.Form1.resources
+C:\Users\student\Desktop\MathQuiz-main\MathQuiz12\MathQuiz12\obj\Debug\MathQuiz12.Properties.Resources.resources
+C:\Users\student\Desktop\MathQuiz-main\MathQuiz12\MathQuiz12\obj\Debug\MathQuiz12.csproj.GenerateResource.cache
+C:\Users\student\Desktop\MathQuiz-main\MathQuiz12\MathQuiz12\obj\Debug\MathQuiz12.csproj.CoreCompileInputs.cache
+C:\Users\student\Desktop\MathQuiz-main\MathQuiz12\MathQuiz12\obj\Debug\MathQuiz12.exe
+C:\Users\student\Desktop\MathQuiz-main\MathQuiz12\MathQuiz12\obj\Debug\MathQuiz12.pdb
+C:\Users\student\Desktop\MathQuiz Сильянов\MathQuiz12\bin\Debug\MathQuiz12.exe.config
+C:\Users\student\Desktop\MathQuiz Сильянов\MathQuiz12\bin\Debug\MathQuiz12.exe
+C:\Users\student\Desktop\MathQuiz Сильянов\MathQuiz12\bin\Debug\MathQuiz12.pdb
+C:\Users\student\Desktop\MathQuiz Сильянов\MathQuiz12\obj\Debug\MathQuiz12.csproj.AssemblyReference.cache
+C:\Users\student\Desktop\MathQuiz Сильянов\MathQuiz12\obj\Debug\MathQuiz12.csproj.SuggestedBindingRedirects.cache
+C:\Users\student\Desktop\MathQuiz Сильянов\MathQuiz12\obj\Debug\MathQuiz12.Form1.resources
+C:\Users\student\Desktop\MathQuiz Сильянов\MathQuiz12\obj\Debug\MathQuiz12.Properties.Resources.resources
+C:\Users\student\Desktop\MathQuiz Сильянов\MathQuiz12\obj\Debug\MathQuiz12.csproj.GenerateResource.cache
+C:\Users\student\Desktop\MathQuiz Сильянов\MathQuiz12\obj\Debug\MathQuiz12.csproj.CoreCompileInputs.cache
+C:\Users\student\Desktop\MathQuiz Сильянов\MathQuiz12\obj\Debug\MathQuiz12.exe
+C:\Users\student\Desktop\MathQuiz Сильянов\MathQuiz12\obj\Debug\MathQuiz12.pdb
