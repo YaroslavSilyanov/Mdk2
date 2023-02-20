@@ -1,0 +1,55 @@
+C:\Users\student\Downloads\Пара\obj\Debug\Пара.csproj.AssemblyReference.cache
+C:\Users\student\Downloads\Пара\obj\Debug\Пара.csproj.SuggestedBindingRedirects.cache
+C:\Users\student\Downloads\Пара\obj\Debug\Пара.Form1.resources
+C:\Users\student\Downloads\Пара\obj\Debug\Пара.Properties.Resources.resources
+C:\Users\student\Downloads\Пара\obj\Debug\Пара.csproj.GenerateResource.cache
+C:\Users\student\Downloads\Пара\obj\Debug\Пара.csproj.CoreCompileInputs.cache
+C:\Users\student\Downloads\Пара\bin\Debug\Пара.exe.config
+C:\Users\student\Downloads\Пара\bin\Debug\Пара.exe
+C:\Users\student\Downloads\Пара\bin\Debug\Пара.pdb
+C:\Users\student\Downloads\Пара\obj\Debug\Пара.exe
+C:\Users\student\Downloads\Пара\obj\Debug\Пара.pdb
+C:\Users\A\Desktop\Пара\bin\Debug\Пара.exe.config
+C:\Users\A\Desktop\Пара\bin\Debug\Пара.exe
+C:\Users\A\Desktop\Пара\bin\Debug\Пара.pdb
+C:\Users\A\Desktop\Пара\obj\Debug\Пара.csproj.AssemblyReference.cache
+C:\Users\A\Desktop\Пара\obj\Debug\Пара.csproj.SuggestedBindingRedirects.cache
+C:\Users\A\Desktop\Пара\obj\Debug\Пара.Form1.resources
+C:\Users\A\Desktop\Пара\obj\Debug\Пара.Properties.Resources.resources
+C:\Users\A\Desktop\Пара\obj\Debug\Пара.csproj.GenerateResource.cache
+C:\Users\A\Desktop\Пара\obj\Debug\Пара.csproj.CoreCompileInputs.cache
+C:\Users\A\Desktop\Пара\obj\Debug\Пара.exe
+C:\Users\A\Desktop\Пара\obj\Debug\Пара.pdb
+C:\Users\student\Desktop\MDK-2.0---LAB-3-main\Старцев Илья 21 ИС МДК\bin\Debug\Пара.exe.config
+C:\Users\student\Desktop\MDK-2.0---LAB-3-main\Старцев Илья 21 ИС МДК\bin\Debug\Пара.exe
+C:\Users\student\Desktop\MDK-2.0---LAB-3-main\Старцев Илья 21 ИС МДК\bin\Debug\Пара.pdb
+C:\Users\student\Desktop\MDK-2.0---LAB-3-main\Старцев Илья 21 ИС МДК\obj\Debug\Пара.csproj.AssemblyReference.cache
+C:\Users\student\Desktop\MDK-2.0---LAB-3-main\Старцев Илья 21 ИС МДК\obj\Debug\Пара.csproj.SuggestedBindingRedirects.cache
+C:\Users\student\Desktop\MDK-2.0---LAB-3-main\Старцев Илья 21 ИС МДК\obj\Debug\Пара.Form1.resources
+C:\Users\student\Desktop\MDK-2.0---LAB-3-main\Старцев Илья 21 ИС МДК\obj\Debug\Пара.Properties.Resources.resources
+C:\Users\student\Desktop\MDK-2.0---LAB-3-main\Старцев Илья 21 ИС МДК\obj\Debug\Пара.csproj.GenerateResource.cache
+C:\Users\student\Desktop\MDK-2.0---LAB-3-main\Старцев Илья 21 ИС МДК\obj\Debug\Пара.csproj.CoreCompileInputs.cache
+C:\Users\student\Desktop\MDK-2.0---LAB-3-main\Старцев Илья 21 ИС МДК\obj\Debug\Пара.exe
+C:\Users\student\Desktop\MDK-2.0---LAB-3-main\Старцев Илья 21 ИС МДК\obj\Debug\Пара.pdb
+C:\Users\student\Desktop\-2.0-LAB--3-main\MDK-2.0---LAB-3-main\Старцев Илья 21 ИС МДК\bin\Debug\Пара.exe.config
+C:\Users\student\Desktop\-2.0-LAB--3-main\MDK-2.0---LAB-3-main\Старцев Илья 21 ИС МДК\bin\Debug\Пара.exe
+C:\Users\student\Desktop\-2.0-LAB--3-main\MDK-2.0---LAB-3-main\Старцев Илья 21 ИС МДК\bin\Debug\Пара.pdb
+C:\Users\student\Desktop\-2.0-LAB--3-main\MDK-2.0---LAB-3-main\Старцев Илья 21 ИС МДК\obj\Debug\Пара.csproj.AssemblyReference.cache
+C:\Users\student\Desktop\-2.0-LAB--3-main\MDK-2.0---LAB-3-main\Старцев Илья 21 ИС МДК\obj\Debug\Пара.csproj.SuggestedBindingRedirects.cache
+C:\Users\student\Desktop\-2.0-LAB--3-main\MDK-2.0---LAB-3-main\Старцев Илья 21 ИС МДК\obj\Debug\Пара.Form1.resources
+C:\Users\student\Desktop\-2.0-LAB--3-main\MDK-2.0---LAB-3-main\Старцев Илья 21 ИС МДК\obj\Debug\Пара.Properties.Resources.resources
+C:\Users\student\Desktop\-2.0-LAB--3-main\MDK-2.0---LAB-3-main\Старцев Илья 21 ИС МДК\obj\Debug\Пара.csproj.GenerateResource.cache
+C:\Users\student\Desktop\-2.0-LAB--3-main\MDK-2.0---LAB-3-main\Старцев Илья 21 ИС МДК\obj\Debug\Пара.csproj.CoreCompileInputs.cache
+C:\Users\student\Desktop\-2.0-LAB--3-main\MDK-2.0---LAB-3-main\Старцев Илья 21 ИС МДК\obj\Debug\Пара.exe
+C:\Users\student\Desktop\-2.0-LAB--3-main\MDK-2.0---LAB-3-main\Старцев Илья 21 ИС МДК\obj\Debug\Пара.pdb
+C:\Users\student\Desktop\--2.0-LAB--3-main\-2.0-LAB--3-main\MDK-2.0---LAB-3-main\Старцев Илья 21 ИС МДК\bin\Debug\Пара.exe.config
+C:\Users\student\Desktop\--2.0-LAB--3-main\-2.0-LAB--3-main\MDK-2.0---LAB-3-main\Старцев Илья 21 ИС МДК\bin\Debug\Пара.exe
+C:\Users\student\Desktop\--2.0-LAB--3-main\-2.0-LAB--3-main\MDK-2.0---LAB-3-main\Старцев Илья 21 ИС МДК\bin\Debug\Пара.pdb
+C:\Users\student\Desktop\--2.0-LAB--3-main\-2.0-LAB--3-main\MDK-2.0---LAB-3-main\Старцев Илья 21 ИС МДК\obj\Debug\Пара.csproj.AssemblyReference.cache
+C:\Users\student\Desktop\--2.0-LAB--3-main\-2.0-LAB--3-main\MDK-2.0---LAB-3-main\Старцев Илья 21 ИС МДК\obj\Debug\Пара.csproj.SuggestedBindingRedirects.cache
+C:\Users\student\Desktop\--2.0-LAB--3-main\-2.0-LAB--3-main\MDK-2.0---LAB-3-main\Старцев Илья 21 ИС МДК\obj\Debug\Пара.Form1.resources
+C:\Users\student\Desktop\--2.0-LAB--3-main\-2.0-LAB--3-main\MDK-2.0---LAB-3-main\Старцев Илья 21 ИС МДК\obj\Debug\Пара.Properties.Resources.resources
+C:\Users\student\Desktop\--2.0-LAB--3-main\-2.0-LAB--3-main\MDK-2.0---LAB-3-main\Старцев Илья 21 ИС МДК\obj\Debug\Пара.csproj.GenerateResource.cache
+C:\Users\student\Desktop\--2.0-LAB--3-main\-2.0-LAB--3-main\MDK-2.0---LAB-3-main\Старцев Илья 21 ИС МДК\obj\Debug\Пара.csproj.CoreCompileInputs.cache
+C:\Users\student\Desktop\--2.0-LAB--3-main\-2.0-LAB--3-main\MDK-2.0---LAB-3-main\Старцев Илья 21 ИС МДК\obj\Debug\Пара.exe
+C:\Users\student\Desktop\--2.0-LAB--3-main\-2.0-LAB--3-main\MDK-2.0---LAB-3-main\Старцев Илья 21 ИС МДК\obj\Debug\Пара.pdb
